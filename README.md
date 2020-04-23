@@ -1,2 +1,2 @@
 # Tutorial5.Rmd
-In this tutorial we are learning about '.gitignore' files, pullrequests and rebase
+In this tutorial we are learning about '.gitignore' files, pullrequests and rebase.
